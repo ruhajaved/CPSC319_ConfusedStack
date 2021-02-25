@@ -39,7 +39,7 @@ java Runner input.txt output.txt
 
 Upon execution, you can expect the program to appropriately output to the output file, as specified by the assignment handout. If there is any problem creating a connection with the input file (for example, if it doesn't exist) or the output file, an appropriate error will be printed to the terminal and the program will terminate.
 
-##Things to Note
+## Things to Note
 
 Note the following additional implicit requirements implemented:
 1. No blank spaces in the input file are tolerated.
