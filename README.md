@@ -6,7 +6,7 @@
 
 Design and implement a stack in Java, with additional requirements that transfrom it into a "confused" stack. Refer to attached description for more details on these additional requirements.
 
-### Project Objective
+### Project Objectives
 
 The project objectives included:
 
@@ -18,7 +18,7 @@ The project objectives included:
 
 The technologies used include:
 
-1. Java version 13.0.2 (note this is compatible with versions up to and including 1.8.0_161)
+1. Java version 13.0.2 (note this is compatible with versions down to and including 1.8.0_161).
 
 ## Launch
 
