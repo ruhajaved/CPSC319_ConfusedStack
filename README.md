@@ -35,6 +35,7 @@ To run the program, follow these steps:
 To be completely explicit, a set of successful commands to run the program would be:
 
 javac Runner.java
+
 java Runner input.txt output.txt
 
 Upon execution, you can expect the program to appropriately output to the output file, as specified by the assignment handout. If there is any problem creating a connection with the input file (for example, if it doesn't exist) or the output file, an appropriate error will be printed to the terminal and the program will terminate.
