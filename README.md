@@ -47,4 +47,4 @@ Note the following additional implicit requirements implemented:
 2. No empty lines in the input file are tolerated.
 3. Arguments to push such as "01" will be considered an invalid argument - leading zeros are excluded from acceptable push arguments.
 4. "Input error" takes priority over "Imput error." That is, a command like "push (12.0)," will terminate on a "Input error," rather than an "Imput error."
-5. A test .txt file (test.txt) is included with example input, as well as the corresponding output file, output.txt, which demonstrates the correct and expected output from the program.
+5. A testFiles folders is added which contains example input and output files. These demonstrate the correct and expected output from the program.
